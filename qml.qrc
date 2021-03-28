@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>startView.qml</file>
+        <file>lostView.qml</file>
+        <file>Case.qml</file>
+        <file>Background.qml</file>
+    </qresource>
+</RCC>
